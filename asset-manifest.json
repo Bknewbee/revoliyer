@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/revoliyer/static/css/main.d9987710.chunk.css",
-    "main.js": "/revoliyer/static/js/main.d0a1c5cd.chunk.js",
-    "main.js.map": "/revoliyer/static/js/main.d0a1c5cd.chunk.js.map",
+    "main.js": "/revoliyer/static/js/main.8de044b1.chunk.js",
+    "main.js.map": "/revoliyer/static/js/main.8de044b1.chunk.js.map",
     "runtime-main.js": "/revoliyer/static/js/runtime-main.aa3b50ee.js",
     "runtime-main.js.map": "/revoliyer/static/js/runtime-main.aa3b50ee.js.map",
     "static/js/2.0d7389e9.chunk.js": "/revoliyer/static/js/2.0d7389e9.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.aa3b50ee.js",
     "static/js/2.0d7389e9.chunk.js",
     "static/css/main.d9987710.chunk.css",
-    "static/js/main.d0a1c5cd.chunk.js"
+    "static/js/main.8de044b1.chunk.js"
   ]
 }
