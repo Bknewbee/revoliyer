@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/revoliyer/static/css/main.d9987710.chunk.css",
-    "main.js": "/revoliyer/static/js/main.1676f479.chunk.js",
-    "main.js.map": "/revoliyer/static/js/main.1676f479.chunk.js.map",
+    "main.js": "/revoliyer/static/js/main.740c385a.chunk.js",
+    "main.js.map": "/revoliyer/static/js/main.740c385a.chunk.js.map",
     "runtime-main.js": "/revoliyer/static/js/runtime-main.aa3b50ee.js",
     "runtime-main.js.map": "/revoliyer/static/js/runtime-main.aa3b50ee.js.map",
-    "static/js/2.558ec94c.chunk.js": "/revoliyer/static/js/2.558ec94c.chunk.js",
-    "static/js/2.558ec94c.chunk.js.map": "/revoliyer/static/js/2.558ec94c.chunk.js.map",
+    "static/js/2.0d7389e9.chunk.js": "/revoliyer/static/js/2.0d7389e9.chunk.js",
+    "static/js/2.0d7389e9.chunk.js.map": "/revoliyer/static/js/2.0d7389e9.chunk.js.map",
     "index.html": "/revoliyer/index.html",
     "static/css/main.d9987710.chunk.css.map": "/revoliyer/static/css/main.d9987710.chunk.css.map",
-    "static/js/2.558ec94c.chunk.js.LICENSE.txt": "/revoliyer/static/js/2.558ec94c.chunk.js.LICENSE.txt",
+    "static/js/2.0d7389e9.chunk.js.LICENSE.txt": "/revoliyer/static/js/2.0d7389e9.chunk.js.LICENSE.txt",
     "static/media/about.css": "/revoliyer/static/media/aboutBg.d01e0bbe.JPG",
     "static/media/earthMovingTire.a791e645.JPG": "/revoliyer/static/media/earthMovingTire.a791e645.JPG",
     "static/media/earthMovingTireManagement.3899eeba.JPG": "/revoliyer/static/media/earthMovingTireManagement.3899eeba.JPG",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.aa3b50ee.js",
-    "static/js/2.558ec94c.chunk.js",
+    "static/js/2.0d7389e9.chunk.js",
     "static/css/main.d9987710.chunk.css",
-    "static/js/main.1676f479.chunk.js"
+    "static/js/main.740c385a.chunk.js"
   ]
 }
